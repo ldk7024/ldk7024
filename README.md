@@ -19,8 +19,8 @@
   <a href="mailto:ldk7024@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a> -->
 </div>
  <div>
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=jinnny92&layout=compact"/>
- <img src= "https://github-readme-stats.vercel.app/api?username=jinnny92&show_icons=true&theme=dark"/> 
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ldk7024&layout=compact"/>
+ <img src= "https://github-readme-stats.vercel.app/api?username=ldk7024&show_icons=true&theme=dark"/> 
  </div>
  </div>
 
