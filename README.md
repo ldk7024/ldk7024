@@ -220,7 +220,7 @@
     <a href="mailto:ldk7024@naver.com">
       <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/">
+    <a href="https://www.linkedin.com/in/daegyo-lee-b385322bb/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://www.instagram.com/daegyo_0202/">
@@ -233,4 +233,3 @@
 <footer>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=150&section=footer" />
 </footer>
-```
