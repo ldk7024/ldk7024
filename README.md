@@ -1,20 +1,26 @@
-<html>
+```html
 <header>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=240&section=header&text=DAEGYO%20LEE&fontSize=70&fontColor=FFFFFF&desc=Senior%20Application%20Software%20Developer&descSize=24&descAlignY=65" />
 </header>
 
+<br/>
+
 <div align="center">
 
-  <h2>👋 Hi, I'm Daegyo Lee</h2>
+  <h2>👋 Welcome to Daegyo Lee's GitHub</h2>
 
   <p>
-    <b>Senior Application Software Developer</b><br/>
-    Seoul, South Korea
+    <img src="https://img.shields.io/badge/Senior%20Application%20Software%20Developer-0F172A?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Seoul,%20South%20Korea-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white">
   </p>
 
   <p>
-    I build public-sector business systems, GIS-based services, data processing features,<br/>
-    API integrations, and AI/OCR proof-of-concept applications.
+    <a href="#english-version">
+      <img src="https://img.shields.io/badge/Language-English-2563EB?style=for-the-badge&logo=googletranslate&logoColor=white">
+    </a>
+    <a href="#korean-version">
+      <img src="https://img.shields.io/badge/Language-Korean-0F172A?style=for-the-badge&logo=googletranslate&logoColor=white">
+    </a>
   </p>
 
   <p>
@@ -23,23 +29,70 @@
     </a>
   </p>
 
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="160px" align="center">
+      <img src="https://github.com/ldk7024.png" width="130px" style="border-radius:50%;" />
+    </td>
+    <td>
+      <h3>DAEGYO LEE</h3>
+      <p>
+        <b>Senior Application Software Developer</b><br/>
+        Public Systems · GIS · Data ETL · API Integration · AI/OCR PoC<br/>
+        Seoul, South Korea
+      </p>
+      <p>
+        I build practical, stable, and user-friendly systems for real business operations.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 id="english-version">🇺🇸 English Version</h2>
+
+<details open>
+  <summary><b>About Me</b></summary>
+
   <br/>
 
-  <h2>🚀 About Me</h2>
+  I am a Senior Application Software Developer based in Seoul, South Korea.
 
-  <p>
-    I have experience in public, environmental, healthcare, and safety domains,<br/>
-    including Environmental Impact Assessment systems, National Environmental Assessment Map,<br/>
-    Smart Education Environment Information System, Medical Information Exchange System,<br/>
-    Regional Healthcare Information System, Chemical Safety Map, and Eco-label certification review automation PoC.
-  </p>
+  I have experience in public, environmental, healthcare, and safety domains, including Environmental Impact Assessment systems, National Environmental Assessment Map, Smart Education Environment Information System, Medical Information Exchange System, Regional Healthcare Information System, Chemical Safety Map, and Eco-label certification review automation PoC.
 
-  <p>
-    I focus on building practical, stable, and user-friendly systems<br/>
-    that can be used in real business operations.
-  </p>
+  My main work includes public-sector business system development, GIS-based visualization, data processing, SQL tuning, API integration, system maintenance, OCR-based document comparison, and RAG/LLM chatbot PoC development.
+
+  I focus on building practical, stable, and user-friendly systems that can be used in real business operations.
+
+</details>
+
+<br/>
+
+<h2 id="korean-version">🇰🇷 Korean Version</h2>
+
+<details>
+  <summary><b>자기소개</b></summary>
 
   <br/>
+
+  서울에서 활동하는 응용SW 개발자 이대교입니다.
+
+  공공·환경·보건·안전 분야의 업무시스템 개발 경험을 보유하고 있으며, 환경영향평가 시스템, 국토환경성평가지도, 스마트교육환경정보시스템, 진료정보교류시스템, 지역보건의료정보시스템, 화학물질 안전지도, 환경표지 인증심사 자동화 PoC 등 다양한 프로젝트를 수행했습니다.
+
+  주요 업무 경험은 공공 업무시스템 개발, GIS 시각화, 데이터 처리, SQL 성능 개선, API 연계, 시스템 유지보수, OCR 기반 문서 대조, RAG/LLM 챗봇 PoC 개발입니다.
+
+  단순히 기능을 구현하는 것에 그치지 않고, 사용자가 실제 업무에서 안정적으로 사용할 수 있는 시스템을 만드는 것을 중요하게 생각합니다.
+
+</details>
+
+<br/>
+
+<div align="center">
 
   <h2>🛠 Tech Stack</h2>
 
@@ -102,16 +155,18 @@
     <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white">
   </p>
 
-  <br/>
+</div>
 
+<br/>
+
+<div align="center">
   <h2>📌 Main Experience</h2>
-
 </div>
 
 <table>
   <tr>
     <td width="50%">
-      <h3>Public Business Systems</h3>
+      <h3>🏛 Public Business Systems</h3>
       <ul>
         <li>Search, detail, admin and statistics screens</li>
         <li>Business logic implementation</li>
@@ -119,7 +174,7 @@
       </ul>
     </td>
     <td width="50%">
-      <h3>GIS Map Services</h3>
+      <h3>🗺 GIS Map Services</h3>
       <ul>
         <li>Spatial data query and visualization</li>
         <li>QGIS / OpenLayers / GeoServer</li>
@@ -129,7 +184,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>Data Processing</h3>
+      <h3>📊 Data Processing</h3>
       <ul>
         <li>ETL and data mart development</li>
         <li>Aggregate SQL and performance tuning</li>
@@ -137,7 +192,7 @@
       </ul>
     </td>
     <td width="50%">
-      <h3>API & AI PoC</h3>
+      <h3>🔗 API & AI PoC</h3>
       <ul>
         <li>Inter-agency API integration</li>
         <li>OCR-based document extraction</li>
@@ -147,12 +202,10 @@
   </tr>
 </table>
 
+<br/>
+
 <div align="center">
-
-  <br/>
-
   <h2>🧩 Featured Projects</h2>
-
 </div>
 
 <table>
@@ -202,17 +255,25 @@
   </tr>
 </table>
 
+<br/>
+
 <div align="center">
 
-  <br/>
+  <h2>🎯 Focus Areas</h2>
 
-  <h2>📊 GitHub Stats</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Public%20Systems-0F172A?style=for-the-badge&logo=googlecloud&logoColor=white">
+    <img src="https://img.shields.io/badge/GIS%20Services-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white">
+    <img src="https://img.shields.io/badge/Data%20Processing-0F766E?style=for-the-badge&logo=databricks&logoColor=white">
+    <img src="https://img.shields.io/badge/API%20Integration-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/AI%20PoC-111827?style=for-the-badge&logo=openai&logoColor=white">
+  </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldk7024&layout=compact&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ldk7024&show_icons=true&theme=tokyonight" height="165"/>
+</div>
 
-  <br/>
-  <br/>
+<br/>
+
+<div align="center">
 
   <h2>📫 Contact</h2>
 
@@ -233,3 +294,4 @@
 <footer>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=150&section=footer" />
 </footer>
+```
