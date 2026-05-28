@@ -23,11 +23,13 @@
     </a>
   </p>
 
+
   <p>
-    <a href="https://hits.seeyoufarm.com">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fldk7024%2Fhit-counter&count_bg=%232563EB&title_bg=%230F172A&icon=github&icon_color=%23FFFFFF&title=visits&edge_flat=false"/>
-    </a>
+    <img src="https://img.shields.io/badge/Public%20Systems-0F172A?style=for-the-badge&logo=googlecloud&logoColor=white">
+    <img src="https://img.shields.io/badge/GIS%20Developer-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white">
+    <img src="https://img.shields.io/badge/API%20Integration-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white">
   </p>
+
 
 </div>
 
